@@ -1,0 +1,6 @@
+{
+  "name": "stock-heatmap-client",
+  "version": "0.1.0",
+  "scripts": {"serve": "vue-cli-service serve"},
+  "dependencies": {"vue": "^3.x", "graphql": "^16.x", "@apollo/client": "^3.x", "chart.js": "^3.x"}
+}
